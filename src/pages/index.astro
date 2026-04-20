@@ -1,0 +1,232 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+);
+
+function formatDate(date: Date): string {
+  return date.toLocaleDateString('ja-JP', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+---
+
+<BaseLayout title="My Blog">
+  <div class="hero">
+    <img
+      src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1400&q=80"
+      alt="医療・ヘルスケアのイメージ"
+      class="hero-image"
+    />
+    <div class="hero-content">
+      <h1>My Blog</h1>
+      <p>医療・放射線技師・Web開発について書いています</p>
+    </div>
+  </div>
+
+  <section class="posts">
+    <h2 class="section-title">最新の記事</h2>
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li class="post-card">
+          <a href={`/blog/${post.id}/`} class="post-link">
+            {post.data.image && (
+              <div class="post-thumbnail">
+                <img src={post.data.image} alt={post.data.title} />
+              </div>
+            )}
+            <div class="post-body">
+              <div class="post-meta">
+                <time datetime={post.data.pubDate.toISOString()}>
+                  {formatDate(post.data.pubDate)}
+                </time>
+                <div class="tags">
+                  {post.data.tags.map((tag) => (
+                    <span class="tag">{tag}</span>
+                  ))}
+                </div>
+              </div>
+              <h3 class="post-title">{post.data.title}</h3>
+              <p class="post-description">{post.data.description}</p>
+              <span class="read-more">続きを読む →</span>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    position: relative;
+    margin: -3rem -1.5rem 3rem;
+    height: 320px;
+    overflow: hidden;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .hero-content {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.65) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 2.5rem;
+  }
+
+  .hero h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.4rem;
+  }
+
+  .hero p {
+    color: rgba(255,255,255,0.85);
+    font-size: 1rem;
+  }
+
+  .section-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .post-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: box-shadow 0.2s, transform 0.2s;
+    margin-bottom: 1rem;
+  }
+
+  .post-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+
+  .post-link {
+    display: flex;
+    color: inherit;
+  }
+
+  .post-link:hover {
+    color: inherit;
+  }
+
+  .post-thumbnail {
+    width: 200px;
+    min-width: 200px;
+    height: 140px;
+    overflow: hidden;
+  }
+
+  .post-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .post-card:hover .post-thumbnail img {
+    transform: scale(1.05);
+  }
+
+  .post-body {
+    padding: 1.25rem 1.5rem;
+    flex: 1;
+  }
+
+  .post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.6rem;
+    flex-wrap: wrap;
+  }
+
+  time {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  .tags {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  .tag {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    background: #eef2ff;
+    color: var(--color-accent);
+    border-radius: 99px;
+    font-weight: 500;
+  }
+
+  .post-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+    letter-spacing: -0.01em;
+    line-height: 1.4;
+    color: var(--color-text);
+    transition: color 0.15s;
+  }
+
+  .post-card:hover .post-title {
+    color: var(--color-accent);
+  }
+
+  .post-description {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .read-more {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-accent);
+  }
+
+  @media (max-width: 560px) {
+    .post-link {
+      flex-direction: column;
+    }
+    .post-thumbnail {
+      width: 100%;
+      height: 180px;
+    }
+  }
+</style>
