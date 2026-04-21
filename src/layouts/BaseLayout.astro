@@ -4,9 +4,10 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  fullWidth?: boolean;
 }
 
-const { title, description = 'シンプルでモダンな日本語ブログ' } = Astro.props;
+const { title, description = 'Health & Investment Blog', fullWidth = false } = Astro.props;
 ---
 
 <!doctype html>
@@ -17,24 +18,36 @@ const { title, description = 'シンプルでモダンな日本語ブログ' } =
     <meta name="description" content={description} />
     <title>{title}</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet" />
   </head>
   <body>
     <header class="site-header">
-      <div class="container">
-        <a href="/" class="site-title">My Blog</a>
-        <nav>
-          <a href="/">記事一覧</a>
+      <div class="header-inner">
+        <a href="/" class="site-logo">
+          <span class="logo-mark">◆</span>
+          <span class="logo-text">MY BLOG</span>
+        </a>
+        <nav class="site-nav">
+          <a href="/">HOME</a>
+          <a href="/">ARTICLES</a>
+          <a href="/">ABOUT</a>
         </nav>
+        <a href="/" class="nav-contact">CONTACT</a>
       </div>
     </header>
 
-    <main class="container">
+    <main class={fullWidth ? '' : 'page-content'}>
       <slot />
     </main>
 
     <footer class="site-footer">
-      <div class="container">
-        <p>&copy; {new Date().getFullYear()} My Blog. All rights reserved.</p>
+      <div class="footer-inner">
+        <div class="footer-logo">
+          <span class="logo-mark">◆</span>
+          <span class="logo-text">MY BLOG</span>
+        </div>
+        <p class="footer-copy">&copy; {new Date().getFullYear()} My Blog. All rights reserved.</p>
       </div>
     </footer>
   </body>
@@ -42,61 +55,120 @@ const { title, description = 'シンプルでモダンな日本語ブログ' } =
 
 <style>
   .site-header {
-    background: var(--color-surface);
-    border-bottom: 1px solid var(--color-border);
-    position: sticky;
+    position: fixed;
     top: 0;
-    z-index: 10;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background: rgba(10, 10, 10, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--color-border);
   }
 
-  .site-header .container {
+  .header-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-
-  .site-title {
-    font-size: 1.25rem;
-    font-weight: 700;
-    color: var(--color-text);
-    letter-spacing: -0.01em;
-  }
-
-  .site-title:hover {
-    color: var(--color-accent);
-  }
-
-  nav a {
-    color: var(--color-text-muted);
-    font-size: 0.9rem;
-  }
-
-  nav a:hover {
-    color: var(--color-accent);
-  }
-
-  .container {
-    max-width: 720px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 0 1.5rem;
+    padding: 0 2.5rem;
+    height: 72px;
   }
 
-  main.container {
-    padding-top: 3rem;
-    padding-bottom: 4rem;
-    min-height: calc(100vh - 130px);
+  .site-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .logo-mark {
+    color: var(--color-accent);
+    font-size: 1.2rem;
+  }
+
+  .logo-text {
+    font-family: 'Cormorant Garamond', var(--font-serif);
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    color: var(--color-text);
+  }
+
+  .site-nav {
+    display: flex;
+    gap: 2.5rem;
+  }
+
+  .site-nav a {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: var(--color-text-muted);
+    transition: color 0.2s;
+  }
+
+  .site-nav a:hover {
+    color: var(--color-text);
+  }
+
+  .nav-contact {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    padding: 0.5rem 1.25rem;
+    transition: all 0.2s;
+  }
+
+  .nav-contact:hover {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #fff;
+  }
+
+  .page-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 120px 2.5rem 6rem;
   }
 
   .site-footer {
+    background: var(--color-surface);
     border-top: 1px solid var(--color-border);
-    padding: 1.5rem 0;
-    text-align: center;
+    padding: 2.5rem 0;
   }
 
-  .site-footer p {
+  .footer-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .footer-copy {
+    font-size: 0.75rem;
     color: var(--color-text-muted);
-    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+  }
+
+  @media (max-width: 768px) {
+    .header-inner {
+      padding: 0 1.25rem;
+    }
+    .site-nav {
+      display: none;
+    }
+    .nav-contact {
+      display: none;
+    }
   }
 </style>
