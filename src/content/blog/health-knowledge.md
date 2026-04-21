@@ -1,6 +1,6 @@
 ---
 title: "知っておきたい！日常生活で役立つ健康知識5選"
-date: 2026-04-21
+pubDate: 2026-04-21
 description: "日々の生活に取り入れやすい、科学的根拠のある健康知識をわかりやすく解説します。"
 image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&auto=format&fit=crop"
 ---
