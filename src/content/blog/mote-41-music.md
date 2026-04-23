@@ -1,6 +1,6 @@
 ---
 title: "音楽の趣味でモテる！女性との会話で使える音楽知識の磨き方"
-pubDate: 2026-04-22
+pubDate: 2026-04-21
 description: "音楽の話題は会話を盛り上げる鉄板ネタです。音楽を使ったモテ戦略を解説します。"
 tags: ["モテ", "趣味", "音楽"]
 image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&auto=format&fit=crop"

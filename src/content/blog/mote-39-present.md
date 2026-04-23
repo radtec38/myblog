@@ -1,6 +1,6 @@
 ---
 title: "プレゼントで差をつける！女性が喜ぶギフト選びの法則"
-pubDate: 2026-04-22
+pubDate: 2026-04-21
 description: "プレゼント選びは気遣いの表れです。女性が本当に喜ぶプレゼントの選び方を解説します。"
 tags: ["モテ", "プレゼント", "デート"]
 image: "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=1200&auto=format&fit=crop"

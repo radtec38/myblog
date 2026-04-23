@@ -1,6 +1,6 @@
 ---
 title: "ボディランゲージで差をつける！モテる男の立ち居振る舞い"
-pubDate: 2026-04-22
+pubDate: 2026-04-08
 description: "言葉より体の動きの方が本音を伝えます。自信があって魅力的に見えるボディランゲージを解説。"
 tags: ["モテ", "ボディランゲージ", "自信"]
 image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=1200&auto=format&fit=crop"

@@ -1,6 +1,6 @@
 ---
 title: "嫉妬は恋愛を壊す！束縛しない男になるためのメンタル管理"
-pubDate: 2026-04-22
+pubDate: 2026-04-14
 description: "嫉妬や束縛は恋愛の大敵。感情をコントロールして余裕のある男性になる方法を解説します。"
 tags: ["モテ", "メンタル", "恋愛"]
 image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&auto=format&fit=crop"

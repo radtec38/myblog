@@ -1,6 +1,6 @@
 ---
 title: "マッチングアプリ完全攻略！いいねをもらえるプロフィールの作り方"
-pubDate: 2026-04-22
+pubDate: 2026-03-14
 description: "マッチングアプリでなかなかいいねがもらえない方へ。プロフィール作成のコツを徹底解説します。"
 tags: ["モテ", "マッチングアプリ", "出会い"]
 image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&auto=format&fit=crop"

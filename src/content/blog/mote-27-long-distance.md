@@ -1,6 +1,6 @@
 ---
 title: "遠距離恋愛を乗り越える！長続きさせるための秘訣"
-pubDate: 2026-04-22
+pubDate: 2026-04-12
 description: "遠距離恋愛は難しいですが、工夫次第で乗り越えられます。長続きするための具体的な方法を解説。"
 tags: ["モテ", "恋愛", "遠距離"]
 image: "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=1200&auto=format&fit=crop"

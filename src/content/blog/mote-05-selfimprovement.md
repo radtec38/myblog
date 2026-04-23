@@ -1,6 +1,6 @@
 ---
 title: "モテる男は毎日やっている！自分磨きの5つの習慣"
-pubDate: 2026-04-22
+pubDate: 2026-01-24
 description: "モテる男性には共通の習慣があります。今日から始められる自分磨きの習慣を5つ紹介します。"
 tags: ["モテ", "自分磨き", "習慣"]
 image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop"

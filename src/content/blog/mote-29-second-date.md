@@ -1,6 +1,6 @@
 ---
 title: "2回目のデートに繋げる！初デート後にやるべき3つのこと"
-pubDate: 2026-04-22
+pubDate: 2026-04-16
 description: "初デートが上手くいっても、その後の行動が2回目に繋がるかを決めます。デート後の正しい行動を解説。"
 tags: ["モテ", "デート", "恋愛"]
 image: "https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=1200&auto=format&fit=crop"

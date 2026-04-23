@@ -1,6 +1,6 @@
 ---
 title: "聞き上手になれば恋愛が変わる！女性が話したくなる聞き方"
-pubDate: 2026-04-22
+pubDate: 2026-04-19
 description: "モテる男性は聞き上手です。女性がもっと話したくなる傾聴のテクニックを解説します。"
 tags: ["モテ", "会話", "聞き上手"]
 image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&auto=format&fit=crop"

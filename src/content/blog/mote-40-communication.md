@@ -1,6 +1,6 @@
 ---
 title: "コミュニケーション能力を上げる！人見知りを克服する方法"
-pubDate: 2026-04-22
+pubDate: 2026-04-21
 description: "人見知りは克服できます。コミュニケーション能力を高めて、初対面の人とも自然に話せるようになりましょう。"
 tags: ["モテ", "コミュニケーション", "人見知り"]
 image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=1200&auto=format&fit=crop"

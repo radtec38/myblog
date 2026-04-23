@@ -1,6 +1,6 @@
 ---
 title: "筋トレで自信をつけろ！モテる体型を作る習慣"
-pubDate: 2026-04-22
+pubDate: 2026-01-19
 description: "女性はマッチョより「程よく鍛えた体」を好みます。忙しくても続けられる筋トレ習慣を紹介。"
 tags: ["モテ", "筋トレ", "健康"]
 image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&auto=format&fit=crop"

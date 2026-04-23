@@ -1,6 +1,6 @@
 ---
 title: "告白を成功させる！タイミングと言葉の選び方"
-pubDate: 2026-04-22
+pubDate: 2026-03-04
 description: "告白は準備とタイミングが命。成功率を上げる告白のコツと、避けるべきNGパターンを解説します。"
 tags: ["モテ", "恋愛", "告白"]
 image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1200&auto=format&fit=crop"

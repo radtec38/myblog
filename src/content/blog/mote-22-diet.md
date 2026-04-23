@@ -1,6 +1,6 @@
 ---
 title: "モテる体型になる食事術！無理なく痩せて引き締まる方法"
-pubDate: 2026-04-22
+pubDate: 2026-04-01
 description: "ダイエットは我慢より習慣が大事。無理なく続けられる食事管理の方法を解説します。"
 tags: ["モテ", "ダイエット", "健康"]
 image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop"

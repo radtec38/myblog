@@ -1,6 +1,6 @@
 ---
 title: "料理ができる男はモテる！初心者でも作れる彼女ができる3品"
-pubDate: 2026-04-22
+pubDate: 2026-04-18
 description: "料理ができる男性は女性から高評価。初心者でも確実に作れる、デートでも使えるレシピを紹介。"
 tags: ["モテ", "料理", "自分磨き"]
 image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&auto=format&fit=crop"

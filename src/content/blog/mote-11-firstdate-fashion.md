@@ -1,6 +1,6 @@
 ---
 title: "初デートの服装完全ガイド！女性に好印象を与えるコーデ術"
-pubDate: 2026-04-22
+pubDate: 2026-02-20
 description: "初デートの服装で迷う男性必見。女性が好む清潔感のあるコーディネートを具体的に解説します。"
 tags: ["モテ", "ファッション", "デート"]
 image: "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=1200&auto=format&fit=crop"

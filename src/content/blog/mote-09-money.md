@@ -1,6 +1,6 @@
 ---
 title: "お金の使い方でモテが変わる！デートでのお金の考え方"
-pubDate: 2026-04-22
+pubDate: 2026-02-12
 description: "お金の使い方は人柄が出ます。ケチすぎず、見栄を張りすぎない、賢いお金の使い方を解説します。"
 tags: ["モテ", "お金", "デート"]
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=format&fit=crop"

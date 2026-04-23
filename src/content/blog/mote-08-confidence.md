@@ -1,6 +1,6 @@
 ---
 title: "自信がない男はモテない？自信をつける5つの方法"
-pubDate: 2026-04-22
+pubDate: 2026-02-07
 description: "自信は生まれつきではなく、行動によって作られます。今日からできる自信のつけ方を解説します。"
 tags: ["モテ", "自信", "メンタル"]
 image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=1200&auto=format&fit=crop"

@@ -1,6 +1,6 @@
 ---
 title: "読書でモテる男になる！月2冊読むだけで会話力が上がる理由"
-pubDate: 2026-04-22
+pubDate: 2026-04-21
 description: "読書は会話力・知識・感性を同時に磨けます。モテにつながる読書習慣の始め方を解説。"
 tags: ["モテ", "読書", "自己啓発"]
 image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&auto=format&fit=crop"

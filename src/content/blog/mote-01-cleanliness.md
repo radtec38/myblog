@@ -1,6 +1,6 @@
 ---
 title: "モテる男の第一歩！清潔感を上げる10の習慣"
-pubDate: 2026-04-22
+pubDate: 2026-01-05
 description: "女性が最も重視するのは「清潔感」。今日からすぐ実践できる清潔感アップの習慣を10個紹介します。"
 tags: ["モテ", "清潔感", "自分磨き"]
 image: "https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=1200&auto=format&fit=crop"

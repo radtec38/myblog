@@ -1,6 +1,6 @@
 ---
 title: "笑いで距離を縮める！モテる男のユーモアセンスの磨き方"
-pubDate: 2026-04-22
+pubDate: 2026-04-10
 description: "面白い男性はモテます。でも無理に笑わせようとするのはNG。自然なユーモアの身につけ方を解説。"
 tags: ["モテ", "会話", "ユーモア"]
 image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=1200&auto=format&fit=crop"

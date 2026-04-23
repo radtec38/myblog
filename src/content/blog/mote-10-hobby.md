@@ -1,6 +1,6 @@
 ---
 title: "趣味がモテを加速する！女性に好印象な趣味の作り方"
-pubDate: 2026-04-22
+pubDate: 2026-02-16
 description: "趣味があると話が広がり、生き生きとした印象を与えます。モテにつながる趣味の選び方を解説。"
 tags: ["モテ", "趣味", "自分磨き"]
 image: "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=1200&auto=format&fit=crop"

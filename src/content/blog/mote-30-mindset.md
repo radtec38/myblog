@@ -1,6 +1,6 @@
 ---
 title: "モテるマインドセット！好かれる男が持つ考え方の共通点"
-pubDate: 2026-04-22
+pubDate: 2026-04-17
 description: "外見やテクニックより、考え方が変わると行動が変わります。モテる男性が持つマインドセットを解説。"
 tags: ["モテ", "マインドセット", "自分磨き"]
 image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop"

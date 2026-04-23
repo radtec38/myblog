@@ -1,6 +1,6 @@
 ---
 title: "香りで差をつけろ！モテる男の香水・体臭対策完全ガイド"
-pubDate: 2026-04-22
+pubDate: 2026-04-03
 description: "香りは記憶と直結します。良い香りをまとう男性は女性の印象に強く残ります。香り戦略を解説。"
 tags: ["モテ", "香水", "清潔感"]
 image: "https://images.unsplash.com/photo-1547887538-047c01e30785?w=1200&auto=format&fit=crop"

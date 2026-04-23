@@ -1,6 +1,6 @@
 ---
 title: "ストレスに強い男になる！メンタルを安定させる5つの方法"
-pubDate: 2026-04-22
+pubDate: 2026-04-20
 description: "精神的に安定している男性は周囲に安心感を与えます。ストレス管理の方法を解説します。"
 tags: ["モテ", "メンタル", "健康"]
 image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto=format&fit=crop"

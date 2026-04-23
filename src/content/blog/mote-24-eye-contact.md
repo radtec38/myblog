@@ -1,6 +1,6 @@
 ---
 title: "目力を鍛えろ！アイコンタクトで好感度を上げる方法"
-pubDate: 2026-04-22
+pubDate: 2026-04-06
 description: "目は口ほどにものを言います。アイコンタクトを意識するだけで、相手への印象は大きく変わります。"
 tags: ["モテ", "コミュニケーション", "心理"]
 image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&auto=format&fit=crop"

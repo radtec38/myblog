@@ -1,6 +1,6 @@
 ---
 title: "マッチングアプリで差をつける！モテるプロフィール写真の撮り方"
-pubDate: 2026-04-22
+pubDate: 2026-03-18
 description: "プロフィール写真1枚でマッチング率は劇的に変わります。スマホでも撮れるモテ写真のコツを解説。"
 tags: ["モテ", "マッチングアプリ", "写真"]
 image: "https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?w=1200&auto=format&fit=crop"

@@ -1,6 +1,6 @@
 ---
 title: "お金の余裕が男の余裕を作る！20代から始めるお金管理術"
-pubDate: 2026-04-22
+pubDate: 2026-04-19
 description: "経済的な余裕は精神的な余裕につながります。20代から実践できるお金の管理方法を解説します。"
 tags: ["モテ", "お金", "自己投資"]
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=format&fit=crop"

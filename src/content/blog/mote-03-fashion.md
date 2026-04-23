@@ -1,6 +1,6 @@
 ---
 title: "ファッション初心者でも大丈夫！モテる服選びの基本"
-pubDate: 2026-04-22
+pubDate: 2026-01-14
 description: "おしゃれに自信がなくても、基本さえ押さえれば好印象を与えられます。ファッションの基本を解説。"
 tags: ["モテ", "ファッション", "自分磨き"]
 image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&auto=format&fit=crop"

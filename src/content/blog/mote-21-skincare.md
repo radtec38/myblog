@@ -1,6 +1,6 @@
 ---
 title: "男のスキンケア入門！肌を整えるだけでモテ度が上がる理由"
-pubDate: 2026-04-22
+pubDate: 2026-03-28
 description: "スキンケアは女性だけのものではありません。肌を整えることで清潔感と若々しさが増します。"
 tags: ["モテ", "スキンケア", "清潔感"]
 image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&auto=format&fit=crop"
