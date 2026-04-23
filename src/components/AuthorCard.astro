@@ -1,0 +1,120 @@
+---
+interface Props {
+  variant?: 'compact' | 'full';
+}
+const { variant = 'compact' } = Astro.props;
+---
+
+<div class={`author-card author-card--${variant}`}>
+  <div class="author-avatar-wrap">
+    <img src="/author.jpg" alt="著者アバター" class="author-avatar" />
+  </div>
+  <div class="author-info">
+    <p class="author-label">AUTHOR</p>
+    <h3 class="author-name">Ken</h3>
+    <p class="author-title">モテる男の教科書 編集長</p>
+    {variant === 'full' && (
+      <p class="author-bio">
+        自己磨き・恋愛・健康・投資をテーマに、男性が「モテる」ために本当に必要なことを発信しています。
+        理論だけでなく、実践から得たリアルな知識をわかりやすくお届けします。
+      </p>
+    )}
+    <div class="author-tags">
+      <span class="author-tag-item">自己磨き</span>
+      <span class="author-tag-item">恋愛</span>
+      <span class="author-tag-item">健康</span>
+      <span class="author-tag-item">投資</span>
+    </div>
+  </div>
+</div>
+
+<style>
+  .author-card {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    padding: 2rem;
+  }
+
+  .author-card--full {
+    align-items: flex-start;
+    gap: 2.5rem;
+    padding: 2.5rem;
+  }
+
+  .author-avatar-wrap {
+    flex-shrink: 0;
+  }
+
+  .author-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--color-border);
+    display: block;
+  }
+
+  .author-card--full .author-avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .author-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    color: var(--color-accent);
+    margin-bottom: 0.4rem;
+  }
+
+  .author-name {
+    font-family: 'Cormorant Garamond', var(--font-serif);
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--color-text);
+    margin-bottom: 0.25rem;
+  }
+
+  .author-card--full .author-name {
+    font-size: 2rem;
+  }
+
+  .author-title {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  .author-bio {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    max-width: 520px;
+  }
+
+  .author-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .author-tag-item {
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    padding: 0.2rem 0.6rem;
+  }
+
+  @media (max-width: 600px) {
+    .author-card {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1.25rem;
+    }
+  }
+</style>

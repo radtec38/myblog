@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import AuthorCard from '../../components/AuthorCard.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -59,6 +60,11 @@ function formatDate(date: Date): string {
       <div class="article-body">
         <Content />
       </div>
+      <!-- 著者情報 -->
+      <div class="article-author">
+        <AuthorCard variant="compact" />
+      </div>
+
       <footer class="article-footer">
         <a href="/" class="back-link">← 記事一覧に戻る</a>
       </footer>
@@ -257,6 +263,12 @@ function formatDate(date: Date): string {
     padding: 0.75rem 1rem;
     border-bottom: 1px solid var(--color-border);
     color: rgba(240,236,228,0.8);
+  }
+
+  .article-author {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
   }
 
   .article-footer {
