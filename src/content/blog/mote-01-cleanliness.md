@@ -65,3 +65,11 @@ image: "https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=1200&auto
   <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPS+1ZG1DE+22QA+NTJWY" alt="">
   <p style="font-size:0.75rem; color:#666; margin-top:0.75rem;">月額3,400円〜 ・ 最短当日出会える</p>
 </div>
+
+
+<div style="text-align:center; margin: 1.5rem 0; padding: 1rem; border: 1px solid #2a2a2a; background: #141414;">
+  <p style="font-size:0.85rem; color:#888; margin-bottom:0.75rem;">📣 PR ｜ プロフ写真でいいねを増やそう</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+201GZ6+58O8+5ZU29" rel="nofollow">
+  <img border="0" width="300" height="250" alt="OurPhoto マッチングアプリ プロフィール写真" src="https://www27.a8.net/svt/bgt?aid=260424352121&wid=001&eno=01&mid=s00000024452001007000&mc=1"></a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPS+201GZ6+58O8+5ZU29" alt="">
+</div>
