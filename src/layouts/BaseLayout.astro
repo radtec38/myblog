@@ -6,17 +6,20 @@ interface Props {
   description?: string;
   fullWidth?: boolean;
   ogImage?: string;
+  pubDate?: Date;
 }
 
 const {
   title,
   description = 'モテる男の教科書 | 自分磨き・恋愛・健康・投資',
   fullWidth = false,
-  ogImage = '/hero-cafe.jpg'
+  ogImage = '/hero-cafe.jpg',
+  pubDate,
 } = Astro.props;
 
 const siteUrl = 'https://mote-lab.radtec38.workers.dev';
-const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const ogImageUrl = ogImage?.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
 ---
 
 <!doctype html>
@@ -49,6 +52,45 @@ const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`
       gtag('js', new Date());
       gtag('config', 'G-RRMC43BNZL');
     </script>
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- JSON-LD Structured Data -->
+    {pubDate ? (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": title,
+        "description": description,
+        "image": ogImageUrl,
+        "datePublished": pubDate.toISOString(),
+        "author": {
+          "@type": "Person",
+          "name": "Ken"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "モテる男の教科書",
+          "logo": {
+            "@type": "ImageObject",
+            "url": `${siteUrl}/author.jpg`
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": canonicalUrl
+        }
+      })} />
+    ) : (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "モテる男の教科書",
+        "url": siteUrl,
+        "description": description
+      })} />
+    )}
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
