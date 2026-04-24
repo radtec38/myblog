@@ -115,3 +115,12 @@ FXで負けて、個別株で迷って、最終的に「考えるのをやめる
 ---
 
 ※投資にはリスクが伴います。将来の運用成果を保証するものではありません。
+
+---
+
+## 口座開設はこちら
+
+俺が使っている投資アプリです。株・FX・暗号資産までひとつで完結します。まだ口座を持っていない方はここから。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" rel="nofollow">【PR】ウルトラ投資アプリ【TOSSY】</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" alt="">
