@@ -50,5 +50,5 @@ image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto
 
 ## もっと本格的にやりたい人へ
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FZQ6R6+1OGO+ZSD69" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260424352967&wid=001&eno=01&mid=s00000007836006011000&mc=1"></a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FZQ6R6+1OGO+ZSD69" rel="nofollow"><img border="0" width="300" height="250" alt="【PR】ダンディハウス メンズ専門エステ・パーソナルジム" src="https://www24.a8.net/svt/bgt?aid=260424352967&wid=001&eno=01&mid=s00000007836006011000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPS+FZQ6R6+1OGO+ZSD69" alt="">
