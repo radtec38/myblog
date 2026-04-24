@@ -43,6 +43,13 @@ image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=fo
 
 お金の管理ができる男性は、将来的にも安心感を与えます。今日から始めましょう。
 
+---
+
+## 関連記事
+
+- [FXで負けた俺がインデックス一択にして、1400万を5000万近くにした話](/blog/mote-real-02-index-investment)
+- [コロナ暴落の隙に800万つぎ込んだら、年60万の配当が入るようになった話](/blog/mote-real-03-hdv-spyd)
+- [お金の使い方でモテが変わる！デートでのお金の考え方](/blog/mote-09-money)
 
 ---
 

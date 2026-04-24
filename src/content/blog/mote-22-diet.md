@@ -43,6 +43,14 @@ image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto
 
 食事を変えると体が変わり、体が変わると自信が生まれます。今日の食事から意識してみましょう。
 
+---
+
+## 関連記事
+
+- [5分・毎日30回のバックランジで5キロ落とした話](/blog/mote-real-05-backlunge)
+- [筋トレで自信をつけろ！モテる体型を作る習慣](/blog/mote-04-training)
+- [運動習慣がモテを作る！週3回で別人になるトレーニング法](/blog/mote-48-exercise-habit)
+- [睡眠を制する者はモテを制す！睡眠の質を上げる7つの習慣](/blog/mote-35-sleep)
 
 ---
 

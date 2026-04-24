@@ -48,6 +48,15 @@ image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1200&auto
 
 運動は裏切りません。続ければ必ず結果が出ます。
 
+---
+
+## 関連記事
+
+- [5分・毎日30回のバックランジで5キロ落とした話](/blog/mote-real-05-backlunge)
+- [筋トレで自信をつけろ！モテる体型を作る習慣](/blog/mote-04-training)
+- [モテる体型になる食事術！無理なく痩せて引き締まる方法](/blog/mote-22-diet)
+- [睡眠を制する者はモテを制す！睡眠の質を上げる7つの習慣](/blog/mote-35-sleep)
+
 
 ---
 

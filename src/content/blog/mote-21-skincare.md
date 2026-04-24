@@ -41,6 +41,14 @@ image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&auto=fo
 
 スキンケアは毎日5分でできます。今日から始めてみてください。
 
+---
+
+## 関連記事
+
+- [既婚者なのに職場でモテる俺が、その理由を真剣に自己分析してみた](/blog/mote-real-01-why-i-get-liked)
+- [モテる男の第一歩！清潔感を上げる10の習慣](/blog/mote-01-cleanliness)
+- [香りで差をつけろ！モテる男の香水・体臭対策完全ガイド](/blog/mote-23-smell)
+- [ヘアスタイルでモテ度が変わる！男の髪型選びの基本](/blog/mote-31-hair)
 
 ---
 

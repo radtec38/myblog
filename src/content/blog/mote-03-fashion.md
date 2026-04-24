@@ -40,6 +40,14 @@ image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&auto
 
 まずはユニクロやGUでシンプルな服を揃えるところから始めましょう。
 
+---
+
+## 関連記事
+
+- [ユニクロしか着てない俺が「可愛い」と言われる理由](/blog/mote-real-04-uniqlo)
+- [初デートの服装完全ガイド！女性に好印象を与えるコーデ術](/blog/mote-11-firstdate-fashion)
+- [ヘアスタイルでモテ度が変わる！男の髪型選びの基本](/blog/mote-31-hair)
+- [モテる男の第一歩！清潔感を上げる10の習慣](/blog/mote-01-cleanliness)
 
 ---
 
