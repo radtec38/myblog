@@ -52,3 +52,10 @@ image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=fo
   <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPS+1ZG1DE+22QA+NTJWY" alt="">
   <p style="font-size:0.75rem; color:#666; margin-top:0.75rem;">月額3,400円〜 ・ 最短当日出会える</p>
 </div>
+
+---
+
+## 投資を始めるなら
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" rel="nofollow">【PR】ウルトラ投資アプリ【TOSSY】</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" alt="">

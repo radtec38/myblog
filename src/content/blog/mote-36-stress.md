@@ -45,3 +45,10 @@ image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto
   <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPS+1ZG1DE+22QA+NTJWY" alt="">
   <p style="font-size:0.75rem; color:#666; margin-top:0.75rem;">月額3,400円〜 ・ 最短当日出会える</p>
 </div>
+
+---
+
+## もっと本格的にやりたい人へ
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FZQ6R6+1OGO+ZSD69" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260424352967&wid=001&eno=01&mid=s00000007836006011000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPS+FZQ6R6+1OGO+ZSD69" alt="">
