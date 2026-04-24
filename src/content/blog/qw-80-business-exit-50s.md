@@ -2,7 +2,7 @@
 title: "ビジネス売却　50代が構築したビジネスを売却して億を稼ぐ【Exit戦略】"
 pubDate: 2026-04-25
 description: "50代のビジネス売却。月100万のビジネスは1000万で売却可能。Exit戦略で一括現金化。"
-pubDate: 2026-04-25
+tags: ["ビジネス売却", "50代", "M&A", "Exit", "億"]
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 ---
 
