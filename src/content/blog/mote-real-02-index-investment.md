@@ -124,3 +124,6 @@ FXで負けて、個別株で迷って、最終的に「考えるのをやめる
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" rel="nofollow">【PR】ウルトラ投資アプリ【TOSSY】</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">日本株を始めるなら【DMM 株】！(PR)</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" alt="">
