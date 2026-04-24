@@ -5,9 +5,18 @@ interface Props {
   title: string;
   description?: string;
   fullWidth?: boolean;
+  ogImage?: string;
 }
 
-const { title, description = 'モテる男の教科書 | 自分磨き・恋愛・健康・投資', fullWidth = false } = Astro.props;
+const {
+  title,
+  description = 'モテる男の教科書 | 自分磨き・恋愛・健康・投資',
+  fullWidth = false,
+  ogImage = '/hero-cafe.jpg'
+} = Astro.props;
+
+const siteUrl = 'https://mote-lab.radtec38.workers.dev';
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 ---
 
 <!doctype html>
@@ -17,6 +26,21 @@ const { title, description = 'モテる男の教科書 | 自分磨き・恋愛�
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{title}</title>
+
+    <!-- OGP -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:site_name" content="モテる男の教科書" />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet" />
