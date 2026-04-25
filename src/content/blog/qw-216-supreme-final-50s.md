@@ -3,7 +3,7 @@ title: "至高の最終形　月100万配当は至高【完全】"
 pubDate: 2026-04-25
 description: "月100万配当。至高の最終形。完全達成。"
 tags: ["至高", "50代", "月100万", "最終", "完全"]
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 ---
 
 月100万＝至高。完全。

@@ -3,7 +3,7 @@ title: "株式投資　50代が個別株で失敗しない買い方【3つの鉄
 pubDate: 2026-04-25
 description: "50代が個別株に挑戦するなら。インデックス+個別株のバランス。鉄則3つで失敗を防ぐ。"
 tags: ["株式投資", "50代", "個別株", "投資戦略", "銘柄選び"]
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 ---
 
 50代が個別株で成功するのは難しい。

@@ -3,7 +3,7 @@ title: "無限の究極　月100万配当は無限の究極【完成】"
 pubDate: 2026-04-25
 description: "50代の月100万配当が無限の究極形態。完璧成就。"
 tags: ["無限", "50代", "月100万", "究極", "完成"]
-image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop"
+image: "https://images.unsplash.com/photo-1434628760416-3a5ff822d6cc?w=1200&q=80"
 ---
 
 月100万＝無限の究極。

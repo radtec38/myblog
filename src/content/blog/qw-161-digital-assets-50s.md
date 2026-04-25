@@ -3,7 +3,7 @@ title: "デジタル資産　50代がブログ＋YouTubeの月100万資産を構
 pubDate: 2026-04-25
 description: "50代のデジタル資産。ブログ月50万+YouTube月50万で月100万。"
 tags: ["デジタル", "50代", "ブログ", "YouTube", "月100万"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=80"
 ---
 
 50代のデジタル資産。ブログ+YouTube月100万。永遠の資産。

@@ -3,7 +3,7 @@ title: "50代から副業で月5万稼ぐ【現実的な3つの仕事】"
 pubDate: 2026-04-24
 description: "50代が副業で月5万稼ぐのは難しくない。ブログ・ライター・コンサル。実体験をもとに現実的な方法を解説します。"
 tags: ["副業", "50代", "月5万", "時間管理", "体験談"]
-image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
 ---
 
 50代から月5万の副業は十分可能だ。

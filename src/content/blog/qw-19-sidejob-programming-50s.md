@@ -3,7 +3,7 @@ title: "プログラミング副業　50代から始める月5万の稼ぎ方【
 pubDate: 2026-04-25
 description: "50代がプログラミングで月5万稼ぐ方法。未経験から3ヶ月で案件獲得。Webアプリ開発より、自動化ツール一択。"
 tags: ["プログラミング", "副業", "50代", "スキル", "月5万"]
-image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
 ---
 
 50代からプログラミング副業。可能か。

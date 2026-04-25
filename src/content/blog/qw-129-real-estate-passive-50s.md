@@ -3,7 +3,7 @@ title: "不動産投資　50代が月50万の投資で月10万の家賃収入を
 pubDate: 2026-04-25
 description: "50代の不動産投資。1500万投資で月10万家賃収入。配当+家賃で月60万に。"
 tags: ["不動産", "50代", "投資", "家賃", "配当"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 ---
 
 50代の不動産投資。小規模でいい。月10万家賃収入。

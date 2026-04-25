@@ -3,7 +3,7 @@ title: "スキンケア　50代男性が実践すべき簡単な肌ケア【3ス
 pubDate: 2026-04-25
 description: "50代の肌ケア。複雑にするな。洗顔・化粧水・保湿クリーム。この3ステップだけで十分。"
 tags: ["スキンケア", "50代", "肌", "健康", "清潔感"]
-image: "https://images.unsplash.com/photo-1527281400683-1aae777175f8?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 ---
 
 50代の肌ケア。複雑に考えるな。

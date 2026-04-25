@@ -3,7 +3,7 @@ title: "50代男性の薄毛対策【フィンペシア月1000円で治る】"
 pubDate: 2026-04-24
 description: "50代男性の薄毛に悩むなら、フィンペシアが答え。月1000円で効果あり。9ヶ月で目立たなくなった実体験を解説します。"
 tags: ["薄毛", "50代", "フィンペシア", "AGA", "体験談"]
-image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1460925895917-aeb19be489c3?w=1200&q=80"
 ---
 
 50代で薄毛。諦める必要はない。

@@ -3,7 +3,7 @@ title: "NISA　50代男性の200万枠の使い方【新NISAで攻める】"
 pubDate: 2026-04-24
 description: "50代男性が新NISAの200万枠をどう使うか。成長枠100万＋安定枠100万の配置を解説します。"
 tags: ["NISA", "50代", "投資", "資産形成", "新NISA"]
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=80"
 ---
 
 新NISAの200万枠。50代はどう使うか。

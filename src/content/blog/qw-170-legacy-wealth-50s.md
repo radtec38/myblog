@@ -3,7 +3,7 @@ title: "世代継承　50代が月100万配当で子孫3世代へ資産を継承
 pubDate: 2026-04-25
 description: "50代の資産継承。月100万配当で3世代まで資産継続。永遠の資産化。"
 tags: ["継承", "50代", "世代", "資産", "レガシー"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=1200&q=80"
 ---
 
 50代の最高の遺産。月100万配当を3世代へ。
