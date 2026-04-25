@@ -83,3 +83,9 @@ image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&q=80
 - [みんなが逃げた「怒り部長」に、あえて近づいたら年収100万上がった話](/blog/mote-real-06-angry-boss)
 - [既婚者なのに職場でモテる俺が自己分析してみた](/blog/mote-real-01-why-i-get-liked)
 - [嘘ばかりつく課長が役職延長できた。職場がアホらしくなってサイドFIREを考えた話](/blog/mote-real-26-boss)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

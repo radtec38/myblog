@@ -101,3 +101,9 @@ Fire TVをテレビに刺してから変わった。大画面でYouTubeが見ら
 - [ユニクロしか着てない俺が「可愛い」と言われる理由](/blog/mote-real-04-uniqlo)
 - [ビールで太って、芋焼酎は臭いと言われて、たどり着いたのが角ハイボールだった](/blog/mote-real-08-highball)
 - [5分・毎日30回のバックランジで5キロ落とした話](/blog/mote-real-05-backlunge)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

@@ -99,3 +99,9 @@ image: "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=1200&q=80
 - [みんなが逃げた「怒り部長」に、あえて近づいたら年収100万上がった話](/blog/mote-real-06-angry-boss)
 - [資産が数千万になったら仕事への不満が消えた。でも新しい不満が生まれた](/blog/mote-real-10-work-money)
 - [資産5000万でも奢らない、キャバクラも行かない。俺のお金の哲学](/blog/mote-real-18-money-philosophy)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

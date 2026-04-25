@@ -102,3 +102,9 @@ image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80
 - [モテる体型になる食事術！無理なく痩せて引き締まる方法](/blog/mote-22-diet)
 - [睡眠を制する者はモテを制す！睡眠の質を上げる7つの習慣](/blog/mote-35-sleep)
 - [ストレスに強い男になる！メンタルを安定させる5つの方法](/blog/mote-36-stress)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

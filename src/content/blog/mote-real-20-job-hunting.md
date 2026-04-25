@@ -102,3 +102,9 @@ image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80
 - [資産が数千万になったら仕事への不満が消えた。でも新しい不満が生まれた](/blog/mote-real-10-work-money)
 - [自信がない男はモテない？自信をつける5つの方法](/blog/mote-08-confidence)
 - [モテるマインドセット！好かれる男が持つ考え方の共通点](/blog/mote-30-mindset)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

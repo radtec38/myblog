@@ -105,3 +105,9 @@ AIのトップ層は、APIを直接使ったり、エージェントを作った
 - [インデックス投資家がAIを使う理由は、「握力」を上げるためだった](/blog/mote-real-11-ai-investment)
 - [投資の本を何冊読んでも動けなかった俺が、両学長の動画で一気に動けた理由](/blog/mote-real-09-investment-start)
 - [資産が数千万になったら仕事への不満が消えた。でも新しい不満が生まれた](/blog/mote-real-10-work-money)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

@@ -103,3 +103,9 @@ image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1200&q=80
 - [既婚者なのに職場でモテる俺が、その理由を真剣に自己分析してみた](/blog/mote-real-01-why-i-get-liked)
 - [好感度爆上がり！女性とのLINEで意識すべき7つのポイント](/blog/mote-07-line)
 - [女性との会話が盛り上がる！トーク力を上げる7つのコツ](/blog/mote-02-conversation)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

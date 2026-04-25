@@ -103,3 +103,9 @@ image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&q=80
 - [資産5000万でも奢らない、キャバクラも行かない。俺のお金の哲学](/blog/mote-real-18-money-philosophy)
 - [資産が数千万になったら仕事への不満が消えた。でも新しい不満が生まれた](/blog/mote-real-10-work-money)
 - [通信費290円時代を経て、資産5000万になった俺の節約遍歴](/blog/mote-real-16-saving)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

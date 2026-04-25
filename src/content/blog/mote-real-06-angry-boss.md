@@ -110,3 +110,9 @@ image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80
 - [聞き上手になれば恋愛が変わる！女性が話したくなる聞き方](/blog/mote-33-listening)
 - [自信がない男はモテない？自信をつける5つの方法](/blog/mote-08-confidence)
 - [モテるマインドセット！好かれる男が持つ考え方の共通点](/blog/mote-30-mindset)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

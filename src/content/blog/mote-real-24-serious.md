@@ -116,3 +116,9 @@ image: "https://images.unsplash.com/photo-1516914943479-89db7d9ae7f2?w=1200&q=80
 - [告白なし、テクニックなし。なんとなく付き合い始めて22年経った話](/blog/mote-real-07-marriage-22years)
 - [職場恋愛を成功させる！社内で好きな人を作るときの注意点](/blog/mote-19-office-romance)
 - [「好きになっちゃうじゃん」と言われた日。おじさんが清潔感を出したら何かが変わった](/blog/mote-real-23-cleanliness)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

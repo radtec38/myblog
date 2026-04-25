@@ -113,3 +113,9 @@ image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80
 - [みんなが逃げた「怒り部長」に、あえて近づいたら年収100万上がった話](/blog/mote-real-06-angry-boss)
 - [モテるマインドセット！好かれる男が持つ考え方の共通点](/blog/mote-30-mindset)
 - [自信がない男はモテない？自信をつける5つの方法](/blog/mote-08-confidence)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

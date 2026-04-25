@@ -110,3 +110,9 @@ iDeCoを始めるとき、正直不安だった。
 - [投資の本を何冊読んでも動けなかった俺が、両学長の動画で一気に動けた理由](/blog/mote-real-09-investment-start)
 - [資産5000万でも奢らない、キャバクラも行かない。俺のお金の哲学](/blog/mote-real-18-money-philosophy)
 - [通信費290円時代を経て、資産5000万になった俺の節約遍歴](/blog/mote-real-16-saving)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

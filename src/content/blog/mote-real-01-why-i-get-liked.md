@@ -102,3 +102,9 @@ image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80
 - [香りで差をつけろ！モテる男の香水・体臭対策完全ガイド](/blog/mote-23-smell)
 - [聞き上手になれば恋愛が変わる！女性が話したくなる聞き方](/blog/mote-33-listening)
 - [ユニクロしか着てない俺が「可愛い」と言われる理由](/blog/mote-real-04-uniqlo)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

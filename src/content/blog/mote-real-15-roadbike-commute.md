@@ -107,3 +107,9 @@ image: "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=1200&q=80
 - [買ってよかったもの4選：生活の質が上がったアイテムを正直レビュー](/blog/mote-real-12-buy-good)
 - [FXで負けた俺がインデックス一択にして、1400万を5000万近くにした話](/blog/mote-real-02-index-investment)
 - [運動習慣がモテを作る！週3回で別人になるトレーニング法](/blog/mote-48-exercise-habit)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

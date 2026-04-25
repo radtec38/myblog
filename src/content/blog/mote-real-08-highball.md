@@ -112,3 +112,9 @@ image: "https://images.unsplash.com/photo-1527281400683-1aae777175f8?w=1200&q=80
 - [5分・毎日30回のバックランジで5キロ落とした話](/blog/mote-real-05-backlunge)
 - [モテる体型になる食事術！無理なく痩せて引き締まる方法](/blog/mote-22-diet)
 - [バーでモテる！大人の男の飲み方・お酒の嗜み方](/blog/mote-47-bar)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

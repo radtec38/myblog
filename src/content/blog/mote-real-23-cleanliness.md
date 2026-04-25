@@ -130,3 +130,9 @@ image: "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=1200&q=80
 - [既婚者なのに職場でモテる俺が、その理由を真剣に自己分析してみた](/blog/mote-real-01-why-i-get-liked)
 - [モテる男の第一歩！清潔感を上げる10の習慣](/blog/mote-01-cleanliness)
 - [資産5000万でも奢らないお金の哲学](/blog/mote-real-18-money-philosophy)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>

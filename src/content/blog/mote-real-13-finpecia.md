@@ -103,3 +103,9 @@ image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=1200&q=80
 - [モテる男の第一歩！清潔感を上げる10の習慣](/blog/mote-01-cleanliness)
 - [男のスキンケア入門！肌を整えるだけでモテ度が上がる理由](/blog/mote-21-skincare)
 - [ヘアスタイルでモテ度が変わる！男の髪型選びの基本](/blog/mote-31-hair)
+
+---
+
+## 関連リンク
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">【PR】この記事で紹介した方法で資産を増やす</a>
