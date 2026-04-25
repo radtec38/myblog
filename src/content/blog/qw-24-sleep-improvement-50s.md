@@ -3,7 +3,7 @@ title: "睡眠改善　50代の眠りが浅い理由と対策【たった3つの
 pubDate: 2026-04-25
 description: "50代の睡眠が浅い原因は加齢でなく習慣。夜21時入浴・寝る90分前スマホ禁止・朝日を浴びる。"
 tags: ["睡眠", "50代", "健康", "習慣", "対策"]
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1200&auto=format&fit=crop"
 ---
 
 50代の浅い睡眠。加齢のせいと思うな。

@@ -3,7 +3,7 @@ title: "英語学習　50代から始める英語で年収アップ【月5万の
 pubDate: 2026-04-25
 description: "50代からの英語学習。仕事で使える英語なら6ヶ月で習得。翻訳・海外業務で月5万追加収入可能。"
 tags: ["英語", "50代", "スキル", "年収", "学習"]
-image: "https://images.unsplash.com/photo-1523242461684-7cb0f395fdef?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&auto=format&fit=crop"
 ---
 
 50代からの英語学習。遅くない。

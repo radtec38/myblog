@@ -3,7 +3,7 @@ title: "LinkedIn活用　50代がLinkedInで年収を上げる方法【転職・
 pubDate: 2026-04-25
 description: "50代のLinkedIn活用。プロフィール充実→スカウト増加→年収交渉力UP。月1-2時間の管理で効果大。"
 tags: ["LinkedIn", "50代", "キャリア", "転職", "スカウト"]
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80"
 ---
 
 50代のLinkedIn。日本人の利用率は低いが、効果は大きい。

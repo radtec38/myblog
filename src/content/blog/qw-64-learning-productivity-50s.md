@@ -3,7 +3,7 @@ title: "学習効率　50代が新スキルを習得する最速の方法【3ヶ
 pubDate: 2026-04-25
 description: "50代の学習。学習法で差が出る。反復→実践→教える。この3ステップで3ヶ月で習得。"
 tags: ["学習", "50代", "スキル", "習得", "効率"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&auto=format&fit=crop"
 ---
 
 50代のスキル習得。脳が老化したわけではない。

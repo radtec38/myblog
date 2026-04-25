@@ -3,7 +3,7 @@ title: "永遠　月100万配当は永遠【最終】"
 pubDate: 2026-04-25
 description: "月100万配当。永遠へ。最終達成。"
 tags: ["永遠", "50代", "月100万", "最終", "完全"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop"
 ---
 
 月100万＝永遠。

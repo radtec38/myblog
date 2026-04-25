@@ -3,7 +3,7 @@ title: "ふるさと納税　50代が月50万の年収補助を月55万に変え
 pubDate: 2026-04-25
 description: "50代のふるさと納税。年600万の返礼品。月50万の副業収入を月55万に。実質負担2000円。"
 tags: ["ふるさと納税", "50代", "税制", "返礼品", "節税"]
-image: "https://images.unsplash.com/photo-1579621970563-430f63602022?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&auto=format&fit=crop"
 ---
 
 50代の税制優遇。ふるさと納税で実質無料の資産形成。

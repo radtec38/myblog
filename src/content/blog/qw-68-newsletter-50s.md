@@ -3,7 +3,7 @@ title: "ニュースレター　50代がメールニュースレターで月5万
 pubDate: 2026-04-25
 description: "50代のニュースレター副業。月500円×100人＝月5万。ブログより高い収益化。"
 tags: ["ニュースレター", "50代", "メディア", "月5万", "副業"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&auto=format&fit=crop"
 ---
 
 50代のニュースレター副業。ブログより簡単。

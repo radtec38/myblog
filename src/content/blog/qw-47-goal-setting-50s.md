@@ -3,7 +3,7 @@ title: "目標設定　50代が実現可能な目標を立てる方法【3年ゴ
 pubDate: 2026-04-25
 description: "50代の目標。遠い目標は諦めるな。3年ゴール。1年アクション。これで確実に達成できる。"
 tags: ["目標設定", "50代", "人生計画", "達成", "戦略"]
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"
 ---
 
 50代の目標。「遠い」と諦める人が多い。

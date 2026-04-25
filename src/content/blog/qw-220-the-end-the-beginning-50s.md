@@ -3,7 +3,7 @@ title: "完成　月100万配当。これが全て【THE END & THE BEGINNING】"
 pubDate: 2026-04-25
 description: "月100万配当で全て完成。これが終わりであり始まり。"
 tags: ["完成", "50代", "月100万", "終わり", "始まり"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1200&q=80"
 ---
 
 月100万配当。

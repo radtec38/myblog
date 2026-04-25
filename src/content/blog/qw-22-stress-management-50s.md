@@ -3,7 +3,7 @@ title: "ストレス対策　50代が仕事のストレスを消す3つの方法
 pubDate: 2026-04-25
 description: "50代のストレスは溜めるな。3つの対策で解消。瞑想・運動・人間関係。シンプルが一番効く。"
 tags: ["ストレス", "50代", "メンタル", "健康", "対策法"]
-image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop"
 ---
 
 50代のストレス。放っておくと、病気になる。
