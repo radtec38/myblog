@@ -3,7 +3,7 @@ title: 相手を褒める技術。女性は褒められると好きになる
 description: 自信がないから褒められない。でも、自信がつくと褒められるようになり、相手は本気になる。褒める = モテの最高テクニック
 pubDate: 2026-04-25
 tags: [恋愛, 褒める, コミュニケーション, 自信]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/compliments-clean.jpeg"
 ---
 
 女性が男に求めるもの。その中で、最も簡単で、最も効果的なのが、**「褒められること」。**
