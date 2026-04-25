@@ -3,7 +3,7 @@ title: "禁煙　50代からの禁煙成功法【年50万の貯金増と寿命10
 pubDate: 2026-04-25
 description: "50代からの禁煙。遅くない。年50万の貯金増＋寿命10年。これだけで禁煙する価値がある。"
 tags: ["禁煙", "50代", "健康", "貯金", "習慣"]
-image: "https://images.unsplash.com/photo-1460925895917-aeb19be489c3?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 ---
 
 50代から禁煙。実行可能だ。

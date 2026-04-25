@@ -3,7 +3,7 @@ title: "絶対勝利　月100万配当は絶対勝利【最高】"
 pubDate: 2026-04-25
 description: "月100万配当。絶対勝利。最高達成。"
 tags: ["絶対", "50代", "月100万", "勝利", "最高"]
-image: "https://images.unsplash.com/photo-1460925895917-aeb19be489c3?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 ---
 
 月100万＝絶対勝利。

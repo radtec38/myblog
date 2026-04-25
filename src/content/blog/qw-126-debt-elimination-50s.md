@@ -3,7 +3,7 @@ title: "負債回収　50代が月10万の返済を月3万に削減して月7万
 pubDate: 2026-04-25
 description: "50代の借金整理。月10万返済→月3万へ削減。月7万×12年＝840万の人生変化。"
 tags: ["借金", "50代", "負債", "返済", "削減"]
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1460925895917-aeb19be489c3?w=1200&q=80"
 ---
 
 50代の借金は人生の足かせ。徹底的に排除。

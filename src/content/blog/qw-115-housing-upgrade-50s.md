@@ -3,7 +3,7 @@ title: "住み替え　50代が家賃3万のマンションに引っ越して月
 pubDate: 2026-04-25
 description: "50代の住み替え。月10万の家賃を月3万に削減。月10万が配当投資に変わる。"
 tags: ["住み替え", "50代", "生活費", "家賃", "削減"]
-image: "https://images.unsplash.com/photo-1507371341519-52d3a7b992c2?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=1200&q=80"
 ---
 
 50代で「高い家賃」に住むのは人生損。月10万→月3万でリセット。
