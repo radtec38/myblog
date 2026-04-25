@@ -80,3 +80,11 @@ LinkedIn更新。セミナー登壇。
 
 - [50代の人脈構築で月100万](/blog/qw-44-networking-events-50s)
 - [50代の職場人脈で月100万](/blog/qw-127-workplace-network-50s)
+
+
+---
+
+## おすすめアイテム＆サービス
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+G3W7ZM+5758+5ZMCH" rel="nofollow"><img border="0" width="300" height="250" alt="【PR】LION HEART メンズアクセサリー" src="https://www22.a8.net/svt/bgt?aid=260424352974&wid=001&eno=01&mid=s00000024254001006000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPS+G3W7ZM+5758+5ZMCH" alt="">

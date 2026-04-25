@@ -79,3 +79,14 @@ image: "https://images.unsplash.com/photo-1579621970563-430f63602022?w=1200&q=80
 
 - [50代の金融リテラシー【相続の準備】](/blog/qw-90-financial-literacy-50s)
 - [50代の親の介護と資産管理](/blog/qw-25-parent-care-50s)
+
+
+---
+
+## おすすめ証券口座
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">日本株を始めるなら【DMM 株】！(PR)</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" rel="nofollow">【PR】ウルトラ投資アプリ【TOSSY】</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" alt="">

@@ -91,3 +91,14 @@ VC並の投資眼を持つ。
 
 - [50代のインデックス投資で月60万](/blog/mote-real-03-hdv-spyd)
 - [50代の投資ポートフォリオで月100万](/blog/qw-84-risk-management-50s)
+
+
+---
+
+## おすすめ証券口座
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" rel="nofollow">日本株を始めるなら【DMM 株】！(PR)</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPS+FEW0KY+1WP2+15QHIA" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" rel="nofollow">【PR】ウルトラ投資アプリ【TOSSY】</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPS+FEAKZ6+1WP2+1HL85U" alt="">
