@@ -3,7 +3,7 @@ title: 年下女性との接し方。年の差を活かす方法
 description: 年下女性は権威に弱い。仕事ができるところを示す。そして、同年代からは言われない「可愛い」をストレートに言う。それが年の差の武器
 pubDate: 2026-04-25
 tags: [恋愛, 年の差, 年下女性, 心理学]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-izakaya.jpeg"
 ---
 
 年下女性にモテる男と、モテない男。
