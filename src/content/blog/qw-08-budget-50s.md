@@ -3,7 +3,7 @@ title: "50代男性・資産5000万達成の家計管理術【節約より仕組
 pubDate: 2026-04-24
 description: "資産5000万に到達した50代の家計管理法。節約ではなく、仕組み化。給与・配当・節税で自動的に貯まる構造を解説します。"
 tags: ["家計管理", "50代", "資産形成", "節約", "体験談"]
-image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/woman-with-money-pool.jpeg"
 ---
 
 資産5000万に到達した。

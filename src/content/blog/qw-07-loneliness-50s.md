@@ -3,7 +3,7 @@ title: "50代男性の孤独感を解決する3ステップ【人間関係リセ
 pubDate: 2026-04-24
 description: "50代で孤独感を感じるのは珍しくない。でも解決できる。友人を作る、聞き役になる、コミュニティに入る。3ステップで解説します。"
 tags: ["孤独感", "50代", "人間関係", "メンタル", "体験談"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/womans-tender-gaze.jpeg"
 ---
 
 50代で孤独感。それは珍しくない。
