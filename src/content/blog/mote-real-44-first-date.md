@@ -3,7 +3,7 @@ title: 初デートで失敗しない。第一印象を最高にする方法
 description: 無理をするな。飲めない酒を飲んだり、若い格好をしたりするから失敗する。等身大で、清潔感のある自分で行く。それが第一印象を最高にする
 pubDate: 2026-04-25
 tags: [初デート, 第一印象, 等身大, 清潔感]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/fake-superman.jpeg"
 ---
 
 初デートで失敗する男と、成功する男の違いは何か。
