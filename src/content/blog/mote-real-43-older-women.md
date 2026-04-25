@@ -3,7 +3,7 @@ title: 年上女性にモテる。年齢差を逆手に取る方法
 description: 年上女性を「おばさん」と見ると失敗。若い女性と同じように優しく接すると、年上女性もモテる。そして、それを若い子も見ている
 pubDate: 2026-04-25
 tags: [恋愛, 年上女性, 平等, 優しさ]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/older-woman-unhappy.jpeg"
 ---
 
 年上女性にモテる男と、モテない男の違いは何か。
