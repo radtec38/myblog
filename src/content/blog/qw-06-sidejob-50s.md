@@ -58,3 +58,9 @@ image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80
 
 - [50代が副業より投資を選んだ理由](/blog/seo-08-investment-vs-sidejob)
 - [副業で月100万　50代が達成する道筋](/blog/qw-category5-20)
+
+---
+
+## 関連記事
+
+- [06 angry boss](/blog/mote-real-06-angry-boss/)

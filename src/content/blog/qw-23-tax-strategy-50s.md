@@ -81,3 +81,9 @@ iDeCo、NISAは節税でなく、繰延課税。
 
 - [NISA　50代男性の200万枠の使い方](/blog/qw-13-nisa-50s)
 - [iDeCo 50代から始めるメリット・デメリット](/blog/qw-03-ideco-50s)
+
+---
+
+## 関連記事
+
+- [23 cleanliness](/blog/mote-real-23-cleanliness/)

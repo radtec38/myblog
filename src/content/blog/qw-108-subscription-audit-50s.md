@@ -3,7 +3,7 @@ title: "サブスク削減　50代が月2万のサブスク10個を月5000円に
 pubDate: 2026-04-25
 description: "50代のサブスク削減。月2万のサブスクを月5000円に。年18万の浮き資金。"
 tags: ["サブスク", "50代", "家計", "節約", "家計管理"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/cheap-sim-card.jpeg"
 ---
 
 50代が知らぬ間に払ってるサブスク。月2万から月5000円へ。差額月15000円。
