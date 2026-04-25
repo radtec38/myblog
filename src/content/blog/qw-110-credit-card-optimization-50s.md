@@ -3,7 +3,7 @@ title: "クレジットカード最適化　50代が年100万の支出を年5万
 pubDate: 2026-04-25
 description: "50代のクレジットカード活用。年100万支出→年5万還元+ポイント。実質支出年95万。"
 tags: ["クレジットカード", "50代", "ポイント", "還元", "節約"]
-image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1434628760416-3a5ff822d6cc?w=1200&q=80"
 ---
 
 50代が知らないと損する還元。年5万のポイント還元。

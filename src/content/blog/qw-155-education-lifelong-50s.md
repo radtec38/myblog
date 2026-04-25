@@ -3,7 +3,7 @@ title: "生涯教育　50代が月2万の学習で月100万の給与増加を作
 pubDate: 2026-04-25
 description: "50代の学習投資。月2万→年24万投資で月100万給与増。スキルが資産。"
 tags: ["教育", "50代", "学習", "給与", "スキル"]
-image: "https://images.unsplash.com/photo-1522202176988-08fa0ee197e1?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&q=80"
 ---
 
 50代の学習は最高ROI。月2万投資→月100万給与増。
