@@ -3,7 +3,7 @@ title: 浮気されない男になる。相手に選ばれ続ける理由
 description: 浮気されない男は、相手の話を聞く。家事を手伝う。他の女の話をしない。一緒に食事する。その行動の積み重ねで、「この人は手放したくない」と思わせる
 pubDate: 2026-04-25
 tags: [恋愛, 浮気防止, 信頼, パートナーシップ]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-dinner.jpeg"
 ---
 
 浮気される男と、浮気されない男。
