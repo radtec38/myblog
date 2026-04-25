@@ -3,7 +3,7 @@ title: "50代で月3回の筋トレで十分な理由【質×継続】"
 pubDate: 2026-04-24
 description: "50代が筋トレするなら週1回がいい。月3-4回。毎日ジムに行く必要はない。質と継続が全て。"
 tags: ["筋トレ", "50代", "健康", "習慣", "体験談"]
-image: "https://images.unsplash.com/photo-1507371341519-52d3a7b992c2?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 ---
 
 50代の筋トレ。月3回で十分だ。

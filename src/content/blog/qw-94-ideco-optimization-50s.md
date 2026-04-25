@@ -3,7 +3,7 @@ title: "iDeCo活用　50代が今から始めても5年で1000万の節税をす
 pubDate: 2026-04-25
 description: "50代のiDeCo。5年で1000万節税可能。月27.5万拠出で年330万節税。退職までにいくら？"
 tags: ["iDeCo", "50代", "節税", "退職金", "年金"]
-image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
 ---
 
 50代でもiDeCo活用で1000万節税。退職までの加速貯蓄戦略。

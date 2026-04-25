@@ -3,7 +3,7 @@ title: "王冠　50代で月100万配当が人生の王冠【威厳】"
 pubDate: 2026-04-25
 description: "50代の月100万配当は人生の王冠。威厳ある人生。"
 tags: ["王冠", "50代", "月100万", "威厳", "成功"]
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1507371341519-52d3a7b992c2?w=1200&q=80"
 ---
 
 50代の王冠。月100万配当。

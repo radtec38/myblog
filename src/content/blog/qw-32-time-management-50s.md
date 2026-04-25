@@ -3,7 +3,7 @@ title: "時間管理　50代が人生の質を上げる時間の使い方【朝5
 pubDate: 2026-04-25
 description: "50代の時間は有限。朝5時起き。朝2時間で人生が変わる。その理由と実践法。"
 tags: ["時間管理", "50代", "習慣", "生産性", "人生"]
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
 ---
 
 50代の時間。限られている。

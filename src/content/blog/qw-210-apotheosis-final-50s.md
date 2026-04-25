@@ -3,7 +3,7 @@ title: "神化　50代で月100万配当が神化を達成する【最終形】"
 pubDate: 2026-04-25
 description: "50代の神化。月100万配当で神のごとき自由。"
 tags: ["神化", "50代", "月100万", "最終", "神"]
-image: "https://images.unsplash.com/photo-1522202176988-08fa0ee197e1?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
 ---
 
 50代で神化。月100万配当。

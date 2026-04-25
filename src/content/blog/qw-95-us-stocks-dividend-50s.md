@@ -3,7 +3,7 @@ title: "米国株配当　50代がVYM+VDVで月100万配当を作る【高配当
 pubDate: 2026-04-25
 description: "50代の米国株。VYMとVDVの組み合わせで月100万配当。資産2億で毎月不労所得。"
 tags: ["米国株", "高配当", "50代", "VYM", "不労所得"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1507371341519-52d3a7b992c2?w=1200&q=80"
 ---
 
 50代の最強配当戦略。米国高配当ETFで月100万不労所得。

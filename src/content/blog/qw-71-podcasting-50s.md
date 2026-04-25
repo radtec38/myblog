@@ -3,7 +3,7 @@ title: "ポッドキャスト　50代からのポッドキャスト配信で月5
 pubDate: 2026-04-25
 description: "50代のポッドキャスト。需要が高い。スポンサー+Patreon。月5万は6ヶ月で実現可能。"
 tags: ["ポッドキャスト", "50代", "音声", "メディア", "月5万"]
-image: "https://images.unsplash.com/photo-1477884996148-fc0ee1e559af?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
 ---
 
 50代のポッドキャスト。YouTube より簡単。
