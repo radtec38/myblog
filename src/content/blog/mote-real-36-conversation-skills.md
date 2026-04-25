@@ -3,7 +3,7 @@ title: 沈黙を作らない。モテる男の会話テクニック
 description: 自分の話ばかりする、自慢する。その原因は自信のなさ。相手の話を聞くことが、最高の会話テクニック
 pubDate: 2026-04-25
 tags: [恋愛, 会話, コミュニケーション, 自信]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/listening-man.jpeg"
 ---
 
 モテない男の会話は、**自分の話ばかり。**
