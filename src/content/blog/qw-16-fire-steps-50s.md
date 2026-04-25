@@ -3,7 +3,7 @@ title: "FIRE達成までのステップ　50代で考えるべき現実的ロー
 pubDate: 2026-04-25
 description: "50代がFIREを実現するまでのステップを解説。資産状況に応じた3つのロードマップ。焦らず、計画的に。"
 tags: ["FIRE", "50代", "資産形成", "早期退職", "実践ガイド"]
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
 ---
 
 50代からFIREを目指すなら、ステップが大切。

@@ -3,7 +3,7 @@ title: "子どもの教育資金　50代が子どもの大学費用を月5万で
 pubDate: 2026-04-25
 description: "50代の子ども教育費。月5万の積立で1000万の教育資金。子どもの可能性を最大化。"
 tags: ["教育資金", "50代", "子ども", "大学費用", "積立"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 ---
 
 50代の子ども教育投資は、最高のROI。

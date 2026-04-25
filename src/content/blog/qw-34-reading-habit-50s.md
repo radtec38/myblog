@@ -3,7 +3,7 @@ title: "読書習慣　50代から始める月1冊で人生が変わる理由【
 pubDate: 2026-04-25
 description: "50代から読書を始めよう。月1冊。年12冊。5年で60冊。知識が格段に増える。"
 tags: ["読書", "50代", "習慣", "教養", "知識"]
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
 ---
 
 50代からの読書。遅くない。
