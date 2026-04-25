@@ -3,7 +3,7 @@ title: 50代だからこそ必要な身だしなみ。服で男は変わる
 description: 「飾らない男がかっこいい」は間違い。清潔感こそが最高のファッション。50代が気をつけるべき3つのこと
 pubDate: 2026-04-25
 tags: [ファッション, 清潔感, 身だしなみ, モテ]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/stylish-men-fashion.jpeg"
 ---
 
 モテない男の服装には、共通点がある。
