@@ -3,7 +3,7 @@ title: 女性の本音を見抜く。言葉の裏を読む力
 description: 女性の本音は、目に出ている。相手の目を見て話す時、目を離さない時。その時に相手が何を本当に思っているのかが、全て目に映る
 pubDate: 2026-04-25
 tags: [恋愛, コミュニケーション, 心理学, 観察力]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-on-garden-bench.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/womans-eyes-expression.jpeg"
 ---
 
 女性の本音を見抜く力。それがあると、恋愛は全く変わる。
