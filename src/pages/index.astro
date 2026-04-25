@@ -3,9 +3,14 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AuthorCard from '../components/AuthorCard.astro';
 
-const posts = (await getCollection('blog')).sort(
+let posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
 );
+
+// Prioritize mote-real articles in featured section
+const moteRealPosts = posts.filter(p => p.id.includes('mote-real'));
+const otherPosts = posts.filter(p => !p.id.includes('mote-real'));
+posts = [...moteRealPosts, ...otherPosts];
 
 function formatDate(date: Date): string {
   return date.toLocaleDateString('ja-JP', {
