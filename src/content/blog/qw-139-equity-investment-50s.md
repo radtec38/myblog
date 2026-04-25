@@ -3,7 +3,7 @@ title: "株式保有　50代がスタートアップに月100万投資して5年
 pubDate: 2026-04-25
 description: "50代のスタートアップ投資。月100万×5年投資で5年後月100万配当。100倍リターン。"
 tags: ["スタートアップ", "50代", "投資", "株式", "VC"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-on-park-bench.jpeg"
 ---
 
 50代の成長投資。スタートアップで人生逆転。

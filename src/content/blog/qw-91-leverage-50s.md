@@ -3,7 +3,7 @@ title: "レバレッジ　50代が他人の力を使い月100万を月1000万に
 pubDate: 2026-04-25
 description: "50代のレバレッジ。自分の力の限界を超える。システム×チーム×パートナー。乗数で加速。"
 tags: ["レバレッジ", "50代", "スケール", "月1000万", "戦略"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
 ---
 
 50代のレバレッジ。他力を使う。

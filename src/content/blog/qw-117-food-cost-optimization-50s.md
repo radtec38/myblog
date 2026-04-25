@@ -3,7 +3,7 @@ title: "食費最適化　50代が月10万の食費を月3万に削減して月7
 pubDate: 2026-04-25
 description: "50代の食費削減。外食中心月10万→自炊月3万。月7万浮く＝年84万の投資費用。"
 tags: ["食費", "50代", "自炊", "栄養", "家計"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/Stress_management_for_202604251636.jpeg"
 ---
 
 50代の人生損。外食月10万。自炊月3万。月7万の違い。

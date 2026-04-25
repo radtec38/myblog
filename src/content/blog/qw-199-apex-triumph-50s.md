@@ -3,7 +3,7 @@ title: "頂点　50代で月100万配当が人生の頂点【達成】"
 pubDate: 2026-04-25
 description: "50代の頂点。月100万配当で人生の最頂点。"
 tags: ["頂点", "50代", "月100万", "達成", "最高"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-on-park-bench.jpeg"
 ---
 
 50代で最頂点。月100万配当。

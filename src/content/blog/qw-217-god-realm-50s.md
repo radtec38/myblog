@@ -3,7 +3,7 @@ title: "神の領域　月100万配当は神の領域【超越】"
 pubDate: 2026-04-25
 description: "月100万配当。神の領域へ。超越達成。"
 tags: ["神", "50代", "月100万", "領域", "超越"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/Stress_management_for_202604251636.jpeg"
 ---
 
 月100万＝神。超越。

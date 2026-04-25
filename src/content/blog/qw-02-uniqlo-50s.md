@@ -3,7 +3,7 @@ title: "50代男性が『綺麗』に見えるユニクロコーデ【実は3点
 pubDate: 2026-04-24
 description: "50代男性が綺麗に見えるファッションは高い服じゃない。ユニクロのローファー・スラックス・シャツだけで十分。実体験をもとに解説します。"
 tags: ["ファッション", "50代", "ユニクロ", "清潔感", "モテ"]
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/Stress_management_for_202604251636.jpeg"
 ---
 
 50代男性が「綺麗」に見えるのに、高い服は不要だ。

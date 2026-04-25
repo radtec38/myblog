@@ -3,7 +3,7 @@ title: "データ分析　50代がデータで意思決定して売上を2倍に
 pubDate: 2026-04-25
 description: "50代のデータ分析。感覚でなく数字で判断。CVR2%→5%で売上5倍。測定なしに改善なし。"
 tags: ["データ分析", "50代", "マーケティング", "改善", "売上"]
-image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/stylish-men-fashion.jpeg"
 ---
 
 50代のデータ分析。測定が力。

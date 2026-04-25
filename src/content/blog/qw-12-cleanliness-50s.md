@@ -3,7 +3,7 @@ title: "清潔感がない50代は終わり【チェックリスト5つ】"
 pubDate: 2026-04-24
 description: "50代で清潔感がないと、人生が変わる。チェックリスト5つで確認。歯・爪・髪・鼻毛・服。これだけで全て変わる。"
 tags: ["清潔感", "50代", "モテ", "健康", "体験談"]
-image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/investment.jpeg"
 ---
 
 清潔感がない50代は終わり。

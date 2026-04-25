@@ -3,7 +3,7 @@ title: "永遠の自由　50代で月100万配当=永遠の自由をつかむ【
 pubDate: 2026-04-25
 description: "50代の永遠の自由。月100万配当で生涯自由確保。"
 tags: ["自由", "50代", "月100万", "永遠", "最終"]
-image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/cleanliness-man.jpeg"
 ---
 
 50代で永遠の自由。月100万配当。
