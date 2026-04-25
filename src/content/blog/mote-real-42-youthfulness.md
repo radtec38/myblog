@@ -3,7 +3,7 @@ title: 50代で若々しさを保つ。10歳若く見える方法
 description: 30代で気づかないと、ただのおじさんになる。ダイエット、美容院、ひげ、服、靴。細部の努力で、50代でも若々しく見える
 pubDate: 2026-04-25
 tags: [若々しさ, 身だしなみ, ダイエット, モテ]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/shaving-man.jpeg"
 ---
 
 50代のおじさん男と、50代でも若々しい男。
