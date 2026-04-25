@@ -3,7 +3,7 @@ title: 告白のタイミング。失敗しない告白の方法
 description: 告白は、相手のサインを見極めることが全て。友達が付き合ってる話、休みの日は何してる？一緒に出かけたい話。そのタイミングが告白のチャンス
 pubDate: 2026-04-25
 tags: [恋愛, 告白, タイミング, 心理学]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-kiss-at-bar.jpeg"
 ---
 
 告白で失敗する男と、成功する男。

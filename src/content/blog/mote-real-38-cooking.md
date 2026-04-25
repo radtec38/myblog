@@ -3,7 +3,7 @@ title: 料理ができる男はモテる。俺が作ってる簡単メニュー
 description: 「男が料理なんて」という思い込みは間違い。手作りの料理は、相手を喜ばせる最高のプレゼント。簡単でいい、心が伝わる
 pubDate: 2026-04-25
 tags: [料理, 恋愛, 相手を喜ばせる, 実践]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-on-park-bench.jpeg"
 ---
 
 女性が男に求めるもの、第一位は何か。

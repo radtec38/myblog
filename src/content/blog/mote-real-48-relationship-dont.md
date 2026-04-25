@@ -3,7 +3,7 @@ title: 恋愛のNG行動。やってはいけない10のこと
 description: スマホを見る、何度も電話する。これらは相手に恐怖感と重さを与える。信頼を失う最短ルート。やってはいけない10のNG行動
 pubDate: 2026-04-25
 tags: [恋愛, 信頼, コミュニケーション, 心理学]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-at-bar.jpeg"
 ---
 
 恋愛が壊れる瞬間は、突然ではない。

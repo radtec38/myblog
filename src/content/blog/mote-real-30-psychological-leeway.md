@@ -3,7 +3,7 @@ title: 心理的余裕がない男はモテない。俺が学んだ3つの余裕
 description: 経済的・時間的・メンタル的余裕の3つの側面から、モテるための心の整え方を徹底解説
 pubDate: 2026-04-25
 tags: [マインド, 自信, 心理学, 恋愛]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/couple-at-bar.jpeg"
 ---
 
 モテる、モテないの差は、見た目でも年収でもない。**心に余裕があるかどうか** だ。
