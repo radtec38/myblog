@@ -3,7 +3,7 @@ title: デート術。デートで失敗しない。俺が学んだ5つの鉄則
 description: 相手の話を聞く、気持ちを向ける、他の女性の話をしない、プレゼントにこだわる、サプライズで喜ばせる。失敗から学んだデートの鉄則
 pubDate: 2026-04-25
 tags: [恋愛, デート, 相手を喜ばせる, 実践]
-image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/40s_man_and_202604251600.jpeg"
+image: "https://raw.githubusercontent.com/radtec38/myblog/main/public/romantic-garden-couple.jpeg"
 ---
 
 デートで失敗する男と、成功する男の違いは何か。
