@@ -1,0 +1,48 @@
+name: YouTube Upload Candidates
+
+on:
+  schedule:
+    # 毎日 21:00 JST（UTC 12:00）に実行
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-candidates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install gray-matter
+
+      - name: Generate upload candidates
+        run: node scripts/generate-youtube-candidates.cjs > upload-candidates.json
+
+      - name: Display candidates
+        run: cat upload-candidates.json
+
+      - name: Create Pull Request with candidates
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: 'chore: YouTube upload candidates for today'
+          title: '📹 YouTube Shorts Upload Candidates'
+          body: |
+            ## Today's Upload Candidates
+
+            See `upload-candidates.json` for the list of videos ready to upload.
+
+            **Instructions:**
+            1. Download the MP4 files from `shorts-output/`
+            2. Go to YouTube Studio
+            3. Upload each video with its SRT subtitle file
+            4. Set privacy to "Private" for testing
+
+            After uploading, close this PR.
+          branch: youtube-upload-${{ github.run_number }}
+          delete-branch: true
