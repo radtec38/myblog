@@ -3,7 +3,7 @@ title: "積立NISAが40万溶けた日：『アチャー』しか出てこなか
 pubDate: 2026-04-28
 description: "コロナショックで100万が60万に。でも売らなかった。面倒くさくて止めなかっただけで、5000万まで来た話。"
 tags: ["投資", "積立NISA", "コロナショック", "FIRE", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-01-corona-nisa/photo-upward.jpg"
 ---
 
 2020年3月。コロナショックが世界を覆い始めた頃、俺はいつも通り朝に証券口座を開いた。

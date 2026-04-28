@@ -3,7 +3,7 @@ title: "職場の生きた伝説、悪女の話"
 pubDate: 2026-04-28
 description: "うちの職場に伝説の女性がいる。男と仲良くなり、不倫になり、移動になる。そしてまた繰り返す。"
 tags: ["職場", "不倫", "サラリーマン", "伝説", "本音"]
-image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-26-akujo/photo-eyecatch.jpg"
 ---
 
 うちの職場に、伝説の女性がいる。

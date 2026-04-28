@@ -3,7 +3,7 @@ title: "子供に資産を残す約束をした、二十年後だけど"
 pubDate: 2026-04-28
 description: "子供に『残った資産から学費を引いて、残ったらあげる』と約束した。ただし二十年後の話だ。"
 tags: ["相続", "子供", "FIRE", "資産形成", "家族"]
-image: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-14-inheritance-promise/photo-eyecatch.jpg"
 ---
 
 子供に約束した。

@@ -3,7 +3,7 @@ title: "痩せて2000万貯まったら、職場でモテ始めた話"
 pubDate: 2026-04-28
 description: "40代でモテ期が来た。特別なことはしていない。痩せたことと、資産が2000万を超えたこと。それだけだ。"
 tags: ["モテ", "自信", "資産", "清潔感", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-15-mote-start/photo-confident.jpg"
 ---
 
 40代に差し掛かった頃、突然モテ期が来た。

@@ -3,7 +3,7 @@ title: "老後が不安で始めて、ムフフで覚醒した投資の話"
 pubDate: 2026-04-28
 description: "老後不安で始めた投資が、ムフフへの欲望で本気になった。動機は不純でいい。結果、5000万になった。"
 tags: ["投資", "FIRE", "配当金", "積立", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-03-mufufu-investment/photo-realization.jpg"
 ---
 
 40代に差し掛かった頃、ふと気づいた。

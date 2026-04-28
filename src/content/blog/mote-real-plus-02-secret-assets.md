@@ -3,7 +3,7 @@ title: "「すごいですね！尊敬してます！」と言いながら、同
 pubDate: 2026-04-28
 description: "職場に投資ブームが来た。先輩が5000万の話をする。俺も同じくらいある。でも絶対に言わない。"
 tags: ["FIRE", "投資", "資産", "サラリーマン", "処世術"]
-image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-02-secret-assets/photo-senior-talk.jpg"
 ---
 
 職場に投資ブームが来た。

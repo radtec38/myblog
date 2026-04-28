@@ -3,7 +3,7 @@ title: "資産形成の最強コンビ、ケチ夫と倹約妻の話"
 pubDate: 2026-04-28
 description: "俺はケチで、妻は倹約家だ。二人合わせたら最強だった。気づいたら7500万円になっていた。"
 tags: ["資産形成", "節約", "夫婦", "FIRE", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1543269664-76bc3997d9ea?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-12-keechi-couple/photo-eyecatch.jpg"
 ---
 
 はっきり言う。俺はケチだ。

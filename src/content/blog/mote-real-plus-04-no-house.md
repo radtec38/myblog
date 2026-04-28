@@ -3,7 +3,7 @@ title: "投資を勉強したら、家を買わなくなった"
 pubDate: 2026-04-28
 description: "5000万貯まった日、最初に思ったのは『家、一括で買えるな』だった。でも買わなかった理由がある。"
 tags: ["投資", "FIRE", "不動産", "賃貸", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-04-no-house/photo-eyecatch.jpg"
 ---
 
 5000万円という数字を見た日のことは、今でも覚えている。

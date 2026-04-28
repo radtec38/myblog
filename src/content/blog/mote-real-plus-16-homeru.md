@@ -3,7 +3,7 @@ title: "お金の余裕が、褒め上手な男にしてくれた"
 pubDate: 2026-04-28
 description: "余裕が出たら、自然と人を褒めるようになった。特別なテクニックじゃない。心の余白の問題だ。"
 tags: ["モテ", "余裕", "褒める", "自信", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-16-homeru/photo-eyecatch.jpg"
 ---
 
 資産が増えて、余裕が出てきた頃から、自然と人を褒めるようになった。

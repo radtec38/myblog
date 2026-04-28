@@ -3,7 +3,7 @@ title: "金持って逃げない男は、モテるらしい"
 pubDate: 2026-04-28
 description: "バツイチの職場の子に言われた。『あなたと結婚してたら幸せだったのに』。前夫は金を持って逃げたらしい。"
 tags: ["モテ", "バツイチ", "職場", "サラリーマン", "本音"]
-image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-22-nigenal/photo-eyecatch.jpg"
 ---
 
 職場のバツイチ女子から話を聞いた。

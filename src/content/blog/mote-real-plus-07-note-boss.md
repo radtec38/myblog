@@ -3,7 +3,7 @@ title: "みんなが逃げたノート部長が、俺の年収を100万上げて
 pubDate: 2026-04-28
 description: "うちの部長は記録するタイプだった"
 tags: ["サラリーマン", "昇進", "年収", "処世術", "職場"]
-image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-07-note-boss/photo-note-boss.jpg"
 ---
 
 うちの部長は記録するタイプだった

@@ -3,7 +3,7 @@ title: "投資を始めて一番後悔したこと、仕事のやる気がなく
 pubDate: 2026-04-28
 description: "投資で資産が増えた。それはよかった。ただ一つだけ後悔している。仕事のやる気が、なくなった。"
 tags: ["投資", "FIRE", "サイドFIRE", "サラリーマン", "本音"]
-image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-05-motivation-down/photo-eyecatch.jpg"
 ---
 
 投資を始めてよかったことは山ほどある。

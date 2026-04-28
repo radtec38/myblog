@@ -3,7 +3,7 @@ title: "氷河期にトップクラスで卒業しても就職は厳しかった
 pubDate: 2026-04-28
 description: "専門学校トップクラスで卒業した。でも就職氷河期は関係なかった。それでも無駄じゃなかった話。"
 tags: ["就職氷河期", "サラリーマン", "キャリア", "専門学校", "人間関係"]
-image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-09-top-class/photo-eyecatch.jpg"
 ---
 
 自分で言うのも恥ずかしいが、専門学校の成績はトップクラスだった。

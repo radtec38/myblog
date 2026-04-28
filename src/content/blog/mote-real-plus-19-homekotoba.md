@@ -3,7 +3,7 @@ title: "褒め言葉は広まる、40代サラリーマンの予想外の話"
 pubDate: 2026-04-28
 description: "職場で『かわいいね』と言うようになってから、予想外のことが起きた。褒め言葉は本人以外にも届く。"
 tags: ["モテ", "褒める", "職場", "サラリーマン", "本音"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-19-homekotoba/photo-eyecatch.jpg"
 ---
 
 職場で「かわいいね」と言うようになってから、予想外のことが起きた。

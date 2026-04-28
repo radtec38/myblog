@@ -3,7 +3,7 @@ title: "7500万になった日、一億が現実になってきた"
 pubDate: 2026-04-28
 description: "ある日、資産を全部寄せ集めて計算したら7500万円になっていた。一億が現実の数字に見えてきた。"
 tags: ["資産", "FIRE", "一億", "投資", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1465101162946-4377e57745c3?w=1200&q=80"
+image: "/shorts-assets/mote-real-plus-24-75million/photo-eyecatch.jpg"
 ---
 
 正直に言う。一億円なんて、夢みたいな数字だと思っていた。
