@@ -3,7 +3,7 @@ title: "FIREを目指してるのに、妻はFIREに興味がない"
 pubDate: 2026-04-28
 description: "5000万の資産がある。4%ルールも知っている。FIREを目指している。でも妻はFIREに興味がない。"
 tags: ["FIRE", "妻", "家族", "サラリーマン", "本音"]
-image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1521521453510-6ec6db2ab4e1?w=1200&q=80"
 ---
 
 5000万円の資産がある。毎月積立を続けている。4%ルールも知っている。FIREという言葉も知っている。

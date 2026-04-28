@@ -3,7 +3,7 @@ title: "水道水でいい、バナナでいい、サイゼでいい、だから
 pubDate: 2026-04-28
 description: "水道水でいい。バナナでいい。社食でいい。サイゼでいい。これを続けていたら7500万になっていた。"
 tags: ["節約", "ケチ", "資産形成", "FIRE", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&q=80"
 ---
 
 改めて言う。俺はケチだ。

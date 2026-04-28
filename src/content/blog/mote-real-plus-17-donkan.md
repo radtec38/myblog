@@ -3,7 +3,7 @@ title: "鈍感だったから助かった、40代サラリーマンの話"
 pubDate: 2026-04-28
 description: "携帯を持って話しかけてきた職場の子。後から気づいた。あれ、LINE交換してほしかったんじゃないか。"
 tags: ["モテ", "鈍感", "サラリーマン", "職場", "本音"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&q=80"
 ---
 
 ある日、職場の子が携帯を持って話しかけてきた。

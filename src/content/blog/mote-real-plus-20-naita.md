@@ -3,7 +3,7 @@ title: "思い込みかもしれない、でも俺しかいなかった"
 pubDate: 2026-04-28
 description: "職場を辞める人が挨拶に来た。俺しかいない場で、泣いた。思い込みかもしれない。でも俺しかいなかった。"
 tags: ["モテ", "職場", "サラリーマン", "思い込み", "本音"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80"
 ---
 
 先日、職場を辞める人が挨拶に来た。

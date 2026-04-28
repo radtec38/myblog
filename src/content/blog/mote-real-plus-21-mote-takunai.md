@@ -3,7 +3,7 @@ title: "本気になりかけた時に何もできない、だからモテたく
 pubDate: 2026-04-28
 description: "声をかけると喜ぶ。でも本気になりそうになると、何もできない。だから最近、モテたくないと思い始めている。"
 tags: ["モテ", "本音", "サラリーマン", "職場", "家族"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&q=80"
 ---
 
 モテたかった。

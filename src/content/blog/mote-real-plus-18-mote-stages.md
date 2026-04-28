@@ -3,7 +3,7 @@ title: "1000万・2000万・痩せ、モテ期の3段階記録"
 pubDate: 2026-04-28
 description: "モテ期は突然来たわけじゃない。振り返ると3段階あった。1000万、2000万、そして痩せた時だ。"
 tags: ["モテ", "資産", "痩せ", "自信", "サラリーマン"]
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80"
 ---
 
 モテ期は突然来たわけじゃない。

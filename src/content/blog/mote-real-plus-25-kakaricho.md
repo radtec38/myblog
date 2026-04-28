@@ -3,7 +3,7 @@ title: "バツイチ女子に何もできない理由、隣の係長を見たら
 pubDate: 2026-04-28
 description: "隣の係長が部下を妊娠させた。40代、子供3人、全部リセット。一歩間違えれば俺も同じだったかもしれない。"
 tags: ["職場", "恋愛", "サラリーマン", "反面教師", "本音"]
-image: "https://images.unsplash.com/photo-1553484771-371a05f1ade0?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=1200&q=80"
 ---
 
 隣の科で事件が起きた。
