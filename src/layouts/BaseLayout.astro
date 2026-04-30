@@ -11,7 +11,7 @@ interface Props {
 
 const {
   title,
-  description = 'モテる男の教科書 | 自分磨き・恋愛・健康・投資',
+  description = '5000万あるのに通勤する男 | 自分磨き・恋愛・健康・投資',
   fullWidth = false,
   ogImage = '/hero-cafe.jpg',
   pubDate,
@@ -35,7 +35,7 @@ const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageUrl} />
-    <meta property="og:site_name" content="モテる男の教科書" />
+    <meta property="og:site_name" content="5000万あるのに通勤する男" />
     <meta property="og:locale" content="ja_JP" />
 
     <!-- Twitter Card -->
@@ -71,7 +71,7 @@ const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
         },
         "publisher": {
           "@type": "Organization",
-          "name": "モテる男の教科書",
+          "name": "5000万あるのに通勤する男",
           "logo": {
             "@type": "ImageObject",
             "url": `${siteUrl}/author.jpg`
@@ -86,7 +86,7 @@ const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
       <script type="application/ld+json" set:html={JSON.stringify({
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "モテる男の教科書",
+        "name": "5000万あるのに通勤する男",
         "url": siteUrl,
         "description": description
       })} />
@@ -101,7 +101,7 @@ const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
       <div class="header-inner">
         <a href="/" class="site-logo">
           <span class="logo-mark">◆</span>
-          <span class="logo-text">モテる男の教科書</span>
+          <span class="logo-text">5000万あるのに通勤する男</span>
         </a>
         <nav class="site-nav">
           <a href="/">HOME</a>
@@ -120,7 +120,7 @@ const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
       <div class="footer-inner">
         <div class="footer-logo">
           <span class="logo-mark">◆</span>
-          <span class="logo-text">モテる男の教科書</span>
+          <span class="logo-text">5000万あるのに通勤する男</span>
         </div>
         <p class="footer-copy">&copy; {new Date().getFullYear()} My Blog. All rights reserved.</p>
       </div>
